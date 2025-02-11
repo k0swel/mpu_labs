@@ -1,2 +1,2 @@
 # Moscow Polytechnic University
-Leonenko ROMAN MPU 241-3211
+Leonenko Roman MPU 241-3211
