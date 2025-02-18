@@ -1,2 +1,2 @@
 Лабораторные работы по дисциплине "Языки программирования" Московский Политех.
-![Московский Политех](https://github.com/user-attachments/assets/a28a1bef-86f4-46fe-8f45-a6bfd0b520e8)
+![хуй](https://github.com/user-attachments/assets/a28a1bef-86f4-46fe-8f45-a6bfd0b520e8)
