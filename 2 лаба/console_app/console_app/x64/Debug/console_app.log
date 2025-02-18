@@ -1,0 +1,3 @@
+﻿  Graham.cpp
+C:\Users\k0swel\OneDrive\Рабочий стол\ЯП лабы\2 лаба\console_app\Graham.cpp(16,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  console_app.vcxproj -> C:\Users\k0swel\OneDrive\Рабочий стол\ЯП лабы\2 лаба\console_app\x64\Debug\console_app.exe
