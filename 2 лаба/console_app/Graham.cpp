@@ -4,6 +4,7 @@
 #include <algorithm>
 #include "SPoint.h"
 
+
 using namespace std;
 
 // Детерминант для проверки на правый/левый поворот
@@ -42,14 +43,14 @@ void sort_angles(vector<SPoint>& points, SPoint P0) {
 void Graham() {
     Deque<SPoint> my_deque;
     short int N;
-    std::cout << "Введите количество точек: ";
+    std::cout << "Enter the number of points: ";
     std::cin >> N;
 
     // Ввод точек
     std::vector<SPoint> points;
     for (short int i = 0; i < N; i++) {
         double x, y;
-        std::cout << "Введите координаты точки X и Y: ";
+        std::cout << "Enter the X and Y coordinates of the point:";
         std::cin >> x >> y;
         points.push_back(SPoint(x, y));
     }
@@ -58,7 +59,7 @@ void Graham() {
     SPoint P0 = points[0];
     sort_angles(points, P0);
 
-    std::cout << "Отсортированные точки: ";
+    std::cout << "Sorted points: ";
     for (auto el : points) {
         std::cout << "( " << el.get_x() << " " << el.get_y() << " ), ";
     }

@@ -1,0 +1,7 @@
+Roman | 75
+Roman | 80
+Petr | 60
+Petr | 85
+Stanislav | 90
+Vlad | 80
+Vlad | 65

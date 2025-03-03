@@ -1,5 +1,9 @@
-﻿  pch.cpp
-  MyQueue.cpp
+﻿  MyQueue.cpp
+C:\Users\k0swel\OneDrive\Рабочий стол\ЯП лабы\3 laba\MyQueue\MyQueue.cpp(4,10): error C2855: параметр командной строки "/source-charset" несовместим с предкомпилированным заголовком
+C:\Users\k0swel\OneDrive\Рабочий стол\ЯП лабы\3 laba\MyQueue\MyQueue.cpp(4,10): error C2855: параметр командной строки "/execution-charset" несовместим с предкомпилированным заголовком
+C:\Users\k0swel\OneDrive\Рабочий стол\ЯП лабы\3 laba\MyQueue\MyQueue.cpp(4,10): error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
   Node.cpp
+C:\Users\k0swel\OneDrive\Рабочий стол\ЯП лабы\3 laba\MyQueue\Node.cpp(1,10): error C2855: параметр командной строки "/source-charset" несовместим с предкомпилированным заголовком
+C:\Users\k0swel\OneDrive\Рабочий стол\ЯП лабы\3 laba\MyQueue\Node.cpp(1,10): error C2855: параметр командной строки "/execution-charset" несовместим с предкомпилированным заголовком
+C:\Users\k0swel\OneDrive\Рабочий стол\ЯП лабы\3 laba\MyQueue\Node.cpp(1,10): error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
   Создание кода...
-  MyQueue.vcxproj -> C:\Users\k0swel\OneDrive\Рабочий стол\ЯП лабы\3 laba\x64\Debug\MyQueue.lib
