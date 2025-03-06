@@ -25,7 +25,8 @@ public:
 
 
 int main() {
-	setlocale(LC_ALL, "RUS");
+	SetConsoleCP(1251);
+	SetConsoleOutputCP(1251);
 	set<Student> Students;
 	
 	while (1) {
@@ -44,7 +45,8 @@ int main() {
 			while (data != "stop") {	
 				try {
 					name = data.substr(0, data.find(" | "));
-					rating = stoi(data.substr(data.find("| ") + 1));
+					string rating_string = data.substr(data.find("| ") + 2);
+					rating = stoi(rating_string);
 					Students.insert(Student(name, rating));
 				}
 				catch (std::invalid_argument& error) {

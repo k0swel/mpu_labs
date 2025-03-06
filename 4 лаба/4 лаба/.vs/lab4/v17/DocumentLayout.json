@@ -1,13 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\4 laba\\4 \u043B\u0430\u0431\u0430\\",
+  "WorkspaceRootPath": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\4 \u043B\u0430\u0431\u0430\\4 \u043B\u0430\u0431\u0430\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F63D276-32DC-4293-BBCF-5EC7AE3189E7}|testt.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\4 laba\\4 \u043B\u0430\u0431\u0430\\testt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4F63D276-32DC-4293-BBCF-5EC7AE3189E7}|testt.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\4 \u043B\u0430\u0431\u0430\\4 \u043B\u0430\u0431\u0430\\testt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F63D276-32DC-4293-BBCF-5EC7AE3189E7}|testt.vcxproj|solutionrelative:testt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,29 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "string",
-              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string",
-              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAWwF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-27T23:33:51.541Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "testt.cpp",
-              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\4 laba\\4 \u043B\u0430\u0431\u0430\\testt.cpp",
+              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\4 \u043B\u0430\u0431\u0430\\4 \u043B\u0430\u0431\u0430\\testt.cpp",
               "RelativeDocumentMoniker": "testt.cpp",
-              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\4 laba\\4 \u043B\u0430\u0431\u0430\\testt.cpp",
+              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\4 \u043B\u0430\u0431\u0430\\4 \u043B\u0430\u0431\u0430\\testt.cpp",
               "RelativeToolTip": "testt.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAWwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-26T15:27:40.512Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
