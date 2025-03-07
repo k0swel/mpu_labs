@@ -1,0 +1,10 @@
+﻿  console_app.cpp
+  Graham.cpp
+C:\Users\k0swel\OneDrive\Рабочий стол\Политех\2 семестр\Системная и программная инженерия\ЯП лабы\2 лаба\console_app\Graham.cpp(17,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  is_palindrom.cpp
+  SPoint.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  console_app.vcxproj -> C:\Users\k0swel\OneDrive\Рабочий стол\Политех\2 семестр\Системная и программная инженерия\ЯП лабы\2 лаба\console_app\x64\Release\console_app.exe

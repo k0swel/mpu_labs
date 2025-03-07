@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\",
+  "WorkspaceRootPath": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\console_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\is_palindrom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|solutionrelative:is_palindrom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\is_palindrom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|solutionrelative:is_palindrom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\console_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|solutionrelative:console_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\Graham.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\Graham.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|solutionrelative:Graham.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|solutionrelative:SPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|solutionrelative:SPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\is_palindrom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59B684FC-F2A4-4D75-9FEA-1202A630C0ED}|console_app.vcxproj|solutionrelative:is_palindrom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,54 +34,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SPoint.cpp",
-              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.cpp",
-              "RelativeDocumentMoniker": "SPoint.cpp",
-              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.cpp",
-              "RelativeToolTip": "SPoint.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-20T14:28:03.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SPoint.h",
-              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.h",
-              "RelativeDocumentMoniker": "SPoint.h",
-              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.h",
-              "RelativeToolTip": "SPoint.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "is_palindrom.h",
+              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\is_palindrom.h",
+              "RelativeDocumentMoniker": "is_palindrom.h",
+              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\is_palindrom.h",
+              "RelativeToolTip": "is_palindrom.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-20T14:27:52.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Graham.cpp",
-              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\Graham.cpp",
-              "RelativeDocumentMoniker": "Graham.cpp",
-              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\Graham.cpp",
-              "RelativeToolTip": "Graham.cpp",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-20T13:34:57.426Z",
+              "WhenOpened": "2025-03-06T20:07:52.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "SPoint.cpp",
+              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.cpp",
+              "RelativeDocumentMoniker": "SPoint.cpp",
+              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.cpp",
+              "RelativeToolTip": "SPoint.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T14:28:03.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SPoint.h",
+              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.h",
+              "RelativeDocumentMoniker": "SPoint.h",
+              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\SPoint.h",
+              "RelativeToolTip": "SPoint.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T14:27:52.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Graham.cpp",
+              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\Graham.cpp",
+              "RelativeDocumentMoniker": "Graham.cpp",
+              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\Graham.cpp",
+              "RelativeToolTip": "Graham.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T13:34:57.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "is_palindrom.cpp",
-              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\is_palindrom.cpp",
+              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\is_palindrom.cpp",
               "RelativeDocumentMoniker": "is_palindrom.cpp",
-              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\is_palindrom.cpp",
+              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\is_palindrom.cpp",
               "RelativeToolTip": "is_palindrom.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -86,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "console_app.cpp",
-              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\console_app.cpp",
+              "DocumentMoniker": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\console_app.cpp",
               "RelativeDocumentMoniker": "console_app.cpp",
-              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\console_app.cpp",
+              "ToolTip": "C:\\Users\\k0swel\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0430\u044F \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u0430\u044F \u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F\\\u042F\u041F \u043B\u0430\u0431\u044B\\2 \u043B\u0430\u0431\u0430\\console_app\\console_app.cpp",
               "RelativeToolTip": "console_app.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-13T07:30:22.007Z",
               "EditorCaption": ""
